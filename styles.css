@@ -54,3 +54,7 @@ table {
 tr, td {
     border: solid;
 }
+.fullimg {
+    width: 1000px;
+    max-width: 90vw;
+}
