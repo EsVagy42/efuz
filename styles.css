@@ -45,7 +45,7 @@ table {
     margin-right: auto;
     border: solid;
 }
-tr, td {
+tr, td, th {
     border: solid;
 }
 .fullimg {
